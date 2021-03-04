@@ -1,2 +1,2 @@
 # Project
-This is first commit
+This is first repository
